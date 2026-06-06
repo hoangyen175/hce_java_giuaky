@@ -1,1 +1,5 @@
 /workspaces/hce_java_giuaky/hce_java_giuaky/src/main/java/com/hce/servlet/ConverterServlet.java
+/workspaces/hce_java_giuaky/hce_java_giuaky/src/main/java/controller/SearchProductServlet.java
+/workspaces/hce_java_giuaky/hce_java_giuaky/src/main/java/model/DBConnection.java
+/workspaces/hce_java_giuaky/hce_java_giuaky/src/main/java/model/Product.java
+/workspaces/hce_java_giuaky/hce_java_giuaky/src/main/java/model/User.java

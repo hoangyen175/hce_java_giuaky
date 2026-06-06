@@ -1,1 +1,5 @@
+model/User.class
 com/hce/servlet/ConverterServlet.class
+model/DBConnection.class
+model/Product.class
+controller/SearchProductServlet.class
